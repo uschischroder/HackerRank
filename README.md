@@ -1,10 +1,11 @@
 # hackerRank
 
 Solved in:
-C
-C++
-Erlang
-Go
-Javascript
-Pascal
-PHP
+
+- C
+- C++
+- Erlang
+- Go
+- Javascript
+- Pascal
+- PHP
