@@ -9,10 +9,10 @@ int solveMeFirst(int a, int b) {
  
 }
 int main() {
-    int num1,num2;
-    scanf("%d %d",&num1,&num2);
+    int n1,n2;
+    scanf("%d %d",&n1,&n2);
     int sum; 
-    sum = solveMeFirst(num1,num2);
+    sum = solveMeFirst(n1,n2);
     printf("%d",sum);
     return 0;
 }

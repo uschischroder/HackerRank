@@ -11,10 +11,10 @@ int solveMeFirst(int a, int b) {
   
 }
 int main() {
-  int num1, num2;
+  int n1, n2;
   int sum;
-  cin>>num1>>num2;
-  sum = solveMeFirst(num1,num2);
+  cin>>n1>>n2;
+  sum = solveMeFirst(n1,n2);
   cout<<sum;
   return 0;
 }
