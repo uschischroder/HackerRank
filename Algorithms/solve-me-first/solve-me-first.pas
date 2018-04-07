@@ -1,9 +1,9 @@
 Program solveMeFirst;
-function solveMeFirst(num1, num2: integer): integer;
+function solveMeFirst(n1, n2: integer): integer;
 var
    result: integer;
 begin
-   result := num1+num2;
+   result := n1+n2;
    
    solveMeFirst := result;
 end;
