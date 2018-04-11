@@ -1,6 +1,6 @@
 # hackerRank
 
-Solved in:
+Solutions for the challenges in:
 
 - C
 - C++
