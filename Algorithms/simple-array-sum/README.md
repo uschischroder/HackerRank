@@ -1,4 +1,4 @@
-#simple-array-sum
+# simple-array-sum
 
 Given an array of integers, find the sum of its elements.
 
